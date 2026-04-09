@@ -11,6 +11,12 @@
 - `rule-set/custom-proxy-classical.json`
 - `rule-set/steam-cdn-classical.json`
 - `rule-set/custom-port-direct.json`
+- `rule-set/custom-direct-domain.srs`
+- `rule-set/custom-direct-classical.srs`
+- `rule-set/custom-proxy-domain.srs`
+- `rule-set/custom-proxy-classical.srs`
+- `rule-set/steam-cdn-classical.srs`
+- `rule-set/custom-port-direct.srs`
 
 ## Raw URLs
 
@@ -21,3 +27,9 @@
 - `https://raw.githubusercontent.com/JADECHEN248/rule-singbox/main/rule-set/custom-proxy-classical.json`
 - `https://raw.githubusercontent.com/JADECHEN248/rule-singbox/main/rule-set/steam-cdn-classical.json`
 - `https://raw.githubusercontent.com/JADECHEN248/rule-singbox/main/rule-set/custom-port-direct.json`
+- `https://raw.githubusercontent.com/JADECHEN248/rule-singbox/main/rule-set/custom-direct-domain.srs`
+- `https://raw.githubusercontent.com/JADECHEN248/rule-singbox/main/rule-set/custom-direct-classical.srs`
+- `https://raw.githubusercontent.com/JADECHEN248/rule-singbox/main/rule-set/custom-proxy-domain.srs`
+- `https://raw.githubusercontent.com/JADECHEN248/rule-singbox/main/rule-set/custom-proxy-classical.srs`
+- `https://raw.githubusercontent.com/JADECHEN248/rule-singbox/main/rule-set/steam-cdn-classical.srs`
+- `https://raw.githubusercontent.com/JADECHEN248/rule-singbox/main/rule-set/custom-port-direct.srs`
