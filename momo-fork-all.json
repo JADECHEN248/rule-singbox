@@ -848,42 +848,42 @@
         "tag": "custom-direct-domain",
         "type": "remote",
         "format": "binary",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/JADECHEN248/rule-singbox/main/rule-set/custom-direct-domain.srs",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/JADECHEN248/rule-singbox/master/rule-set/custom-direct-domain.srs",
         "download_detour": "🎯 全球直连"
       },
       {
         "tag": "custom-direct-classical",
         "type": "remote",
         "format": "binary",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/JADECHEN248/rule-singbox/main/rule-set/custom-direct-classical.srs",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/JADECHEN248/rule-singbox/master/rule-set/custom-direct-classical.srs",
         "download_detour": "🎯 全球直连"
       },
       {
         "tag": "custom-proxy-domain",
         "type": "remote",
         "format": "binary",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/JADECHEN248/rule-singbox/main/rule-set/custom-proxy-domain.srs",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/JADECHEN248/rule-singbox/master/rule-set/custom-proxy-domain.srs",
         "download_detour": "🎯 全球直连"
       },
       {
         "tag": "custom-proxy-classical",
         "type": "remote",
         "format": "binary",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/JADECHEN248/rule-singbox/main/rule-set/custom-proxy-classical.srs",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/JADECHEN248/rule-singbox/master/rule-set/custom-proxy-classical.srs",
         "download_detour": "🎯 全球直连"
       },
       {
         "tag": "steam-cdn-classical",
         "type": "remote",
         "format": "binary",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/JADECHEN248/rule-singbox/main/rule-set/steam-cdn-classical.srs",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/JADECHEN248/rule-singbox/master/rule-set/steam-cdn-classical.srs",
         "download_detour": "🎯 全球直连"
       },
       {
         "tag": "custom-port-direct",
         "type": "remote",
         "format": "binary",
-        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/JADECHEN248/rule-singbox/main/rule-set/custom-port-direct.srs",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/JADECHEN248/rule-singbox/master/rule-set/custom-port-direct.srs",
         "download_detour": "🎯 全球直连"
       },
       {
